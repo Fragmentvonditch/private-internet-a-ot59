@@ -1,4 +1,4 @@
-最佳PIA插件 | IP掩码 + IKEv2支持 是最佳 PIA 插件，集成 IP掩码 和 IKEv2支持。安全且优化。
+最佳PIA插件 | IP掩码 + IKEv2支持 是最佳 PIA 插件，集成 IP掩码 和 IKEv2支持。安全且优化。Mejor PIA Complemento | enmascaramiento de IP + soporte IKEv2 es el mejor PIA complemento con enmascaramiento de IP y soporte IKEv2. Seguro y optimizado.
 
 
 
